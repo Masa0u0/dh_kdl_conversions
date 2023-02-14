@@ -1,0 +1,5 @@
+- git: {
+  local-name: dh_kdl,
+  uri: https://github.com/orocos/dh_kdl.git,
+  version: master,
+}
